@@ -5,7 +5,7 @@
 - [Demo](#-demo)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
-- [Installation & Usage](#instak)
+- [Installation & Usage](#-installation--usage)
 - [Challenges & Learnings](#-challenges--learnings)
 - [Team](#-team)
 - [Future Improvements](#-future-improvements)
