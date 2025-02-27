@@ -1,13 +1,14 @@
 # 🚀 Bionic Reading (and more)
 ## 🏆 WiCS Hopper Hacks Hackathon | 02/22/2025 - 02/23/2025
 ## 📌 Table of Contents
-- [About the Project](#about-the-project)
+- [About the Project](#-about-the-project)
 - [Demo](#-demo)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
 - [Installation & Usage](#instak)
-- [Challenges & Learnings](#challenges-&-learning)
-- [Team](#team)
+- [Challenges & Learnings](#-challenges--learnings)
+- [Team](#-team)
+- [Future Improvements](#-future-improvements)
 ## 🎯 About the Project
 Brief description of your project.
 
@@ -53,12 +54,12 @@ cd backend
 npm install
 node server.js
 ## 🏗 Challenges & Learnings
-## 💡 Challenges Faced
+### 💡 Challenges Faced
 
 Debugging API request failures
 Managing state efficiently in React
 Deploying the project under time constraints
-## 📚 What We Learned
+### 📚 What We Learned
 
 Improved knowledge of authentication & authorization
 Better teamwork and collaborative problem-solving
