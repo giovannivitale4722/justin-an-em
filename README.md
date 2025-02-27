@@ -2,7 +2,7 @@
 ## 🏆 WiCS Hopper Hacks Hackathon | 02/22/2025 - 02/23/2025
 ## 📌 Table of Contents
 - [About the Project](#about-the-project)
-- [Demo](#demo)
+- [Demo](#-demo)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation & Usage](#instak)
